@@ -16,6 +16,7 @@ TriggerEvent('luke_textui:HideUI')
 ```
 
 ## Installing the resource
+ * Download the latest release
  * Drag and drop the luke_textui folder into your resources folder
  * Start the resource in your server.cfg
 
